@@ -1,0 +1,26 @@
+{
+  "name": "co-web-worker",
+  "version": "0.0.0",
+  "description": "Cross-origin Web Workers",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chipto/co-web-worker.git"
+  },
+  "keywords": [
+    "same",
+    "domain",
+    "cross",
+    "origin",
+    "web",
+    "worker",
+    "proxy",
+    "cors"
+  ],
+  "author": "Neek Sandhu <neek.sandhu@chipto.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chipto/co-web-worker/issues"
+  },
+  "homepage": "https://github.com/chipto/co-web-worker#readme"
+}
