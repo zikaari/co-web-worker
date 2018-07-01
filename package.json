@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chipto/co-web-worker.git"
+    "url": "git+https://github.com/NeekSandhu/co-web-worker.git"
   },
   "keywords": [
     "same",
@@ -17,10 +17,10 @@
     "proxy",
     "cors"
   ],
-  "author": "Neek Sandhu <neek.sandhu@chipto.io>",
+  "author": "Neek Sandhu <neek.sandhu@outlook.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chipto/co-web-worker/issues"
+    "url": "https://github.com/NeekSandhu/co-web-worker/issues"
   },
-  "homepage": "https://github.com/chipto/co-web-worker#readme"
+  "homepage": "https://github.com/NeekSandhu/co-web-worker#readme"
 }
