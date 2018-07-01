@@ -1,6 +1,6 @@
 {
   "name": "co-web-worker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cross-origin Web Workers",
   "main": "index.js",
   "repository": {
