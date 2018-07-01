@@ -1,4 +1,4 @@
-declare class ProxyWorker extends Worker {
+declare class CrossOriginWorker extends Worker {
     /**
      * Creates a cross-origin web worker through proxy
      *
@@ -10,4 +10,4 @@ declare class ProxyWorker extends Worker {
     constructor(scriptUrl: string);
 }
 
-export default ProxyWorker;
+export default CrossOriginWorker;

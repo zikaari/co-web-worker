@@ -1,4 +1,4 @@
-# Cross-origin web workers using proxies (kinda)
+# Cross-origin web workers
 
 ## What???
 
@@ -19,12 +19,12 @@ $ npm i co-web-worker
 ### Light it up
 
 ```javascript
-import ProxyWorker from 'co-web-worker';
+import CrossOriginWorker from 'co-web-worker';
 
 console.log(window.location.origin);
 // > https://abc.com
 
-const worker = new ProxyWorker('https://xyz.com/dist/worker.js');
+const worker = new CrossOriginWorker('https://xyz.com/dist/worker.js');
 
 console.log(worker instanceof Worker);
 // > true
